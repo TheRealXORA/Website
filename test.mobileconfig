@@ -43,7 +43,7 @@
                 </dict>
             </array>
             <key>PayloadDisplayName</key>
-            <string>ScarletDNS | Privacy-Enhanced DNS</string>
+            <string>iOS Exploiters | DNS</string>
             <key>PayloadIdentifier</key>
             <string>IOS.EXPLOITERS.DNS.ID</string>
             <key>PayloadOrganization</key>
