@@ -33,12 +33,38 @@
                     <!-- Blocked Domains -->
                     <key>SupplementalBlockDomains</key>
                     <array>
+                        <!-- Known Revocation And Blacklksf Services -->
                         <string>ads.apple.com</string>
                         <string>tracking.apple.com</string>
                         <string>telemetry.apple.com</string>
                         <string>metrics.apple.com</string>
+
+                        <!-- Additional Apple Revocation Services -->
+                        <string>crl.apple.com</string>
+                        <string>ocsp.apple.com</string>
+                        <string>ocsp2.apple.com</string>
+                        <string>attestation.apple.com</string>
+                        <string>feedbackws.apple.com</string>
+                        <string>guzzoni.apple.com</string>
+                        <string>captive.apple.com</string>
+                        <string>push.apple.com</string>
+                        <string>gateway.push.apple.com</string>
+                        <string>updates.cdn-apple.com</string>
+
+                        <!-- Google Analytics And Tracking -->
                         <string>doubleclick.net</string>
                         <string>google-analytics.com</string>
+                        <string>ssl.google-analytics.com</string>
+                        <string>stats.g.doubleclick.net</string>
+                        <string>www.googletagmanager.com</string>
+
+                        <!-- Additional Telemetry And Tracking Services -->
+                        <string>analytics.edgekey.net</string>
+                        <string>cloudservices.apple.com</string>
+                        <string>iphonesubmissions.apple.com</string>
+                        <string>configuration.apple.com</string>
+                        <string>configuration.apple.com.akadns.net</string>
+                        <string>cnfiguration.apple.com.edgekey.net</string>
                     </array>
                 </dict>
                 
