@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://example.com/path/to/your-app.ipa</string>
+                    <string>https://download1650.mediafire.com/0w08ru25g8tgQfQPi7D0y29cW2dYoy0gwhKGm-LOqOpGkmOW-U4Qx6mL0mM8ZbYL07eKai8MNpUhkozI5pwzj29abxAOG0Qkh7rCQQyJCBuCR4Vj3GLI4DgLv1MHzlfdHhhObh_warofq4ClEnRU2YQjI4Z9RWQ2_L5-EF5XPSI/d0m2ijp0wzse710/Delta+iOS+V2.639.688.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.example.yourapp</string>
+                <string>2.639.688</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Your App Name</string>
+                <string>Delta</string>
             </dict>
         </dict>
     </array>
