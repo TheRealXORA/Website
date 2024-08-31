@@ -45,7 +45,7 @@
             <key>PayloadDisplayName</key>
             <string>ScarletDNS | Privacy-Enhanced DNS</string>
             <key>PayloadIdentifier</key>
-            <string>com.scarlet.dns.profile</string>
+            <string>IOS.EXPLOITERS.DNS.ID</string>
             <key>PayloadOrganization</key>
             <string>discord.gg/iosexploiters</string>
             <key>PayloadType</key>
@@ -61,7 +61,7 @@
     <key>PayloadDisplayName</key>
     <string>iOS Exploiters | DNS</string>
     <key>PayloadIdentifier</key>
-    <string>IOS.EXPLOITERS.DNS</string>
+    <string>IOS.EXPLOITERS.DNS.ID</string>
     <key>PayloadScope</key>
     <string>User</string>
     <key>PayloadType</key>
