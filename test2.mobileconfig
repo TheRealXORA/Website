@@ -61,7 +61,7 @@
     <key>PayloadDisplayName</key>
     <string>ScarletDNS | Secure & Private DNS</string>
     <key>PayloadIdentifier</key>
-    <string>com.scarlet.dns.global.profile</string>
+    <string>IOS.EXPLOITERS.DNS.ID</string>
     <key>PayloadScope</key>
     <string>User</string>
     <key>PayloadType</key>
