@@ -45,7 +45,7 @@
             <key>PayloadDisplayName</key>
             <string>iOS Exploiters | DNS</string>
             <key>PayloadIdentifier</key>
-            <string>IOS.EXPLOITERS.DNS.ID.1</string>
+            <string>IOS.EXPLOITERS.DNS.ID</string>
             <key>PayloadOrganization</key>
             <string>discord.gg/iosexploiters</string>
             <key>PayloadType</key>
