@@ -5,46 +5,69 @@
     <key>PayloadContent</key>
     <array>
         <dict>
-            <key>FullScreen</key>
-            <true/>
-            <key>Icon</key>
-            <data>
-            [Base64 Image Data]
-            </data>
-            <key>IgnoreManifestScope</key>
-            <true/>
-            <key>IsRemovable</key>
-            <true/>
-            <key>Label</key>
-            <string>Esign Khơindvn</string>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://security.cloudflare-gateway.com/dns-query</string>
+                <key>SupplementalMatchDomains</key>
+                <array>
+                    <!-- Essential Apple services required for normal device operation -->
+                    <string>ocsp.apple.com</string>
+                    <string>ocsp2.apple.com</string>
+                    <string>mesu.apple.com</string>
+                    <string>valid.apple.com</string>
+                    <string>crl.apple.com</string>
+                    <string>certs.apple.com</string>
+                    <string>appattest.apple.com</string>
+                    <string>vpp.itunes.apple.com</string>
+                    <string>gdmf.apple.com</string>
+                </array>
+                <key>SupplementalBlockDomains</key>
+                <array>
+                    <!-- Blocking unwanted trackers and common ad networks -->
+                    <string>ads.apple.com</string>
+                    <string>tracking.apple.com</string>
+                    <string>telemetry.apple.com</string>
+                    <string>metrics.apple.com</string>
+                    <string>doubleclick.net</string>
+                    <string>google-analytics.com</string>
+                </array>
+            </dict>
+            <key>OnDemandRules</key>
+            <array>
+                <dict>
+                    <key>Action</key>
+                    <string>Connect</string>
+                </dict>
+            </array>
             <key>PayloadDisplayName</key>
-            <string>Bio Khoindvn</string>
+            <string>iOS Exploiters | DNS</string>
             <key>PayloadIdentifier</key>
-            <string>com.apple.webClip.managed.34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+            <string>iOS.Exploiters.DNS</string>
             <key>PayloadOrganization</key>
-            <string>khoindvn</string>
+            <string>iOS Exploiters Privacy Solutions</string>
             <key>PayloadType</key>
-            <string>com.apple.webClip.managed</string>
+            <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+            <string>5A1C45B6-0E7A-4F6E-A98A-FCB59D6A1D0E</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
-            <key>URL</key>
-            <string>https://google.com</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Web Clip</string>
+    <string>Blacklist DNS Blocker.</string>
     <key>PayloadDisplayName</key>
-    <string>Esign Khơindvn</string>
+    <string>iOS Exploiters</string>
     <key>PayloadIdentifier</key>
-    <string>com.apple.webClip.managed</string>
-    <key>PayloadOrganization</key>
-    <string>khoindvn</string>
+    <string>iOS.Exploiters.DNS.2</string>
+    <key>PayloadScope</key>
+    <string>User</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+    <string>9C9F4EAF-BA92-4A3E-9182-BEF10B72A9DB</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
