@@ -82,7 +82,7 @@
                 <string>iOS Exploiters | DNS</string>
                 
                 <key>PayloadIdentifier</key>
-                <string>IOS.EXPLOITERS.DNS.ID</string>
+                <string>IOS.EXPLOITERS.DNS.ID.1</string>
                 
                 <key>PayloadOrganization</key>
                 <string>discord.gg/iosexploiters</string>
@@ -106,7 +106,7 @@
         <string>iOS Exploiters | DNS</string>
         
         <key>PayloadIdentifier</key>
-        <string>IOS.EXPLOITERS.DNS.ID</string>
+        <string>IOS.EXPLOITERS.DNS.ID.2</string>
         
         <key>PayloadScope</key>
         <string>User</string>
