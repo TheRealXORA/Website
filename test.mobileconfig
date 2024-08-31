@@ -29,6 +29,8 @@
             <string>34B78E98-B746-4A69-A771-1D19516E1B9F</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
+            <key>URL</key>
+            <string>https://google.com</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
