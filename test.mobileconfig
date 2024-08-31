@@ -59,7 +59,7 @@
     <key>PayloadDescription</key>
     <string>Enhanced DNS configuration to improve privacy and block unwanted traffic.</string>
     <key>PayloadDisplayName</key>
-    <string>ScarletDNS | Secure & Private DNS</string>
+    <string>DNS Protection: Blocks Third-Party Blacklists and Revocation Requests.</string>
     <key>PayloadIdentifier</key>
     <string>com.scarlet.dns.global.profile</string>
     <key>PayloadScope</key>
