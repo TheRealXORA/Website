@@ -59,9 +59,9 @@
     <key>PayloadDescription</key>
     <string>Enhanced DNS configuration to improve privacy and block unwanted traffic.</string>
     <key>PayloadDisplayName</key>
-    <string>iOS Exploiters</string>
+    <string>ScarletDNS | Secure & Private DNS</string>
     <key>PayloadIdentifier</key>
-    <string>IOS.EXPLOITERS.DNS.1.1</string>
+    <string>com.scarlet.dns.global.profile</string>
     <key>PayloadScope</key>
     <string>User</string>
     <key>PayloadType</key>
