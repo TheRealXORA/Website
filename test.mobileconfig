@@ -47,7 +47,7 @@
             <key>PayloadIdentifier</key>
             <string>com.scarlet.dns.profile</string>
             <key>PayloadOrganization</key>
-            <string>Scarlet Privacy Solutions</string>
+            <string>discord.gg/iosexploiters</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
@@ -57,11 +57,11 @@
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Enhanced DNS configuration to improve privacy and block unwanted traffic.</string>
-    <key>PayloadDisplayName</key>
     <string>DNS Protection: Blocks Third-Party Blacklists and Revocation Requests.</string>
+    <key>PayloadDisplayName</key>
+    <string>iOS Exploiters | DNS</string>
     <key>PayloadIdentifier</key>
-    <string>com.scarlet.dns.global.profile</string>
+    <string>IOS.EXPLOITERS.DNS</string>
     <key>PayloadScope</key>
     <string>User</string>
     <key>PayloadType</key>
