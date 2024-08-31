@@ -13,7 +13,6 @@
                 <string>https://security.cloudflare-gateway.com/dns-query</string>
                 <key>SupplementalMatchDomains</key>
                 <array>
-                    <!-- Essential Apple services required for normal device operation -->
                     <string>ocsp.apple.com</string>
                     <string>ocsp2.apple.com</string>
                     <string>mesu.apple.com</string>
@@ -26,7 +25,6 @@
                 </array>
                 <key>SupplementalBlockDomains</key>
                 <array>
-                    <!-- Blocking unwanted trackers and common ad networks -->
                     <string>ads.apple.com</string>
                     <string>tracking.apple.com</string>
                     <string>telemetry.apple.com</string>
